@@ -1,7 +1,5 @@
 /*
- Implemente un algoritmo que le permita ingresar por teclado,
-1 si desea saber que es Git y 2 si desea saber las caracteristicas de git
-caso contrario muestre en pantalla no se reconoce esa opción.
+Implemente un algoritmo que le desplegue que es Git las caracteristicas del mismo
  */
 package caracteristicasgithub;
 /**
